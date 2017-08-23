@@ -1,0 +1,10 @@
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\bin\Debug\Alias.exe.config
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\bin\Debug\Alias.exe
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\bin\Debug\Alias.pdb
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\obj\Debug\Alias.csprojResolveAssemblyReference.cache
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\obj\Debug\Alias.exe
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\obj\Debug\Alias.pdb
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\bin\Debug\Alias.exe.manifest
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\bin\Debug\Alias.application
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\obj\Debug\Alias.exe.manifest
+C:\Users\blurryRobot\Desktop\Development\Alias\Alias\obj\Debug\Alias.application
